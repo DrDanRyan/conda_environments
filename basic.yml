@@ -1,0 +1,19 @@
+name: basic
+channels:
+  - defaults
+dependencies:
+  - git
+  - pip
+  - pylint
+  - pandas
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - xlrd
+  - sqlalchemy
+  - pyodbc
+  - tqdm
+

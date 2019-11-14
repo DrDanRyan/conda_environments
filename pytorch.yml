@@ -1,0 +1,25 @@
+name: pytorch
+channels:
+  - pytorch
+  - gpytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - git
+  - pip
+  - pylint
+  - pandas
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - scikit-learn
+  - category_encoders
+  - seaborn
+  - pytorch
+  - torchvision
+  - cpuonly
+  - botorch
+  - pip:
+    - openml

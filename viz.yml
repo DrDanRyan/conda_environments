@@ -1,0 +1,26 @@
+name: viz
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - git
+  - pip
+  - pylint
+  - pandas
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - xlrd
+  - sqlalchemy
+  - pyodbc
+  - tqdm
+  - altair
+  - geopandas
+  - vega
+  - vega_datasets
+  - pip:
+    - gpdvega
+
