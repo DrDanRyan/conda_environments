@@ -1,0 +1,14 @@
+name: opt
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - git
+  - pip
+  - pylint
+  - pandas
+  - jupyter
+  - numpy
+  - scipy
+  - pyomo
+  - ipopt
