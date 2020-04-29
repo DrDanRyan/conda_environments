@@ -1,0 +1,19 @@
+name: pyro
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - git
+  - pip
+  - pylint
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - pytorch
+  - torchvision
+  - cudatoolkit
+  - pip:
+    - pyro-ppl

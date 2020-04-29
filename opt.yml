@@ -12,3 +12,4 @@ dependencies:
   - scipy
   - pyomo
   - ipopt
+  - coincbc
